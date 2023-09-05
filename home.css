@@ -18,6 +18,11 @@
 
   .sub{
     font-size: 20px;
+    text-align: center;
+  }
+
+  ul.imp{
+    display: inline-block;
   }
   
   img {
