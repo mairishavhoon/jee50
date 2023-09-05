@@ -14,17 +14,14 @@
   .thought{
     font-family: monospace;
     padding-bottom: 5%;
+    text-align: center;
+    display: inline-block;
   }
 
   .sub{
     font-size: 20px;
     text-align: center;
   }
-
-  ul.imp{
-    display: inline-block;
-  }
-  
   img {
     height: 360px;
     margin: 40px;
